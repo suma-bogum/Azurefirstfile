@@ -1,1 +1,2 @@
 This is file B content
+this is 2nd line of code for changes version 3
